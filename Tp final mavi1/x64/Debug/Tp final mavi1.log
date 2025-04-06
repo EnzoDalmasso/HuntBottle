@@ -1,0 +1,43 @@
+﻿  Tp final mavi1.cpp
+C:\Users\Enzo\Desktop\DuckHunt\Tp final mavi1\Blancos.h(71,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "Tp%20final%20mavi1.cpp")
+  
+C:\Users\Enzo\Desktop\DuckHunt\Tp final mavi1\Blancos.h(77,19): warning C4305: '=': truncamiento de 'double' a 'T'
+C:\Users\Enzo\Desktop\DuckHunt\Tp final mavi1\Blancos.h(77,19): warning C4305:         with
+C:\Users\Enzo\Desktop\DuckHunt\Tp final mavi1\Blancos.h(77,19): warning C4305:         [
+C:\Users\Enzo\Desktop\DuckHunt\Tp final mavi1\Blancos.h(77,19): warning C4305:             T=float
+C:\Users\Enzo\Desktop\DuckHunt\Tp final mavi1\Blancos.h(77,19): warning C4305:         ]
+  (compilando archivo de origen "Tp%20final%20mavi1.cpp")
+  
+C:\Users\Enzo\Desktop\DuckHunt\Tp final mavi1\Blancos.h(78,18): warning C4305: '=': truncamiento de 'double' a 'T'
+C:\Users\Enzo\Desktop\DuckHunt\Tp final mavi1\Blancos.h(78,18): warning C4305:         with
+C:\Users\Enzo\Desktop\DuckHunt\Tp final mavi1\Blancos.h(78,18): warning C4305:         [
+C:\Users\Enzo\Desktop\DuckHunt\Tp final mavi1\Blancos.h(78,18): warning C4305:             T=float
+C:\Users\Enzo\Desktop\DuckHunt\Tp final mavi1\Blancos.h(78,18): warning C4305:         ]
+  (compilando archivo de origen "Tp%20final%20mavi1.cpp")
+  
+C:\Users\Enzo\Desktop\DuckHunt\Tp final mavi1\Blancos.h(159,11): warning C4552: "/": el resultado de la expresión no se usa
+  (compilando archivo de origen "Tp%20final%20mavi1.cpp")
+  
+C:\Users\Enzo\Desktop\DuckHunt\Tp final mavi1\Encargado.h(66,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Tp%20final%20mavi1.cpp")
+  
+C:\Users\Enzo\Desktop\DuckHunt\Tp final mavi1\Encargado.h(136,21): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Tp%20final%20mavi1.cpp")
+  
+C:\Users\Enzo\Desktop\DuckHunt\Tp final mavi1\Encargado.h(140,24): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Tp%20final%20mavi1.cpp")
+  
+C:\Users\Enzo\Desktop\DuckHunt\Tp final mavi1\Encargado.h(208,20): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Tp%20final%20mavi1.cpp")
+  
+C:\Users\Enzo\Desktop\DuckHunt\Tp final mavi1\Encargado.h(224,20): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Tp%20final%20mavi1.cpp")
+  
+C:\Users\Enzo\Desktop\DuckHunt\Tp final mavi1\Encargado.h(240,20): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Tp%20final%20mavi1.cpp")
+  
+C:\Users\Enzo\Desktop\DuckHunt\Tp final mavi1\Encargado.h(256,20): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Tp%20final%20mavi1.cpp")
+  
+  Tp final mavi1.vcxproj -> C:\Users\Enzo\Desktop\DuckHunt\x64\Debug\Tp final mavi1.exe
