@@ -1,32 +1,57 @@
-# Prerequisites
-*.d
+# ====================================================================
+# Visual Studio - Archivos Temporales y de Configuración de Usuario
+# ====================================================================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
+# ====================================================================
+# Directorios de Compilación (Salida de binarios y objetos)
+# ====================================================================
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+[Dd]ebug/
+[Rr]elease/
+
+# Archivos específicos de compilación de VS
+*.pdb
+*.ilk
+*.aps
+*.idb
+*.tlog
+*.ipch
+*.db
+*.opendb
+*.winmd
+
+# ====================================================================
+# Archivos de código y artefactos generados por el compilador
+# ====================================================================
 *.obj
-
-# Precompiled Headers
-*.gch
+*.o
 *.pch
+*.gch
+*.tlb
+*.tlh
+*.bak
+*.log
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+# ====================================================================
+# Ejecutables finales
+# ====================================================================
 *.exe
 *.out
 *.app
+
+# ====================================================================
+# NOTA PARA SFML: Si guardás tus .dll o .lib de SFML dentro del proyecto,
+# NO uses un filtro genérico de '*.dll' o '*.lib' porque Git las va a ignorar.
+# Es mejor ignorar solo las carpetas de compilación (Debug/Release) 
+# y dejar que los assets (.png, .wav, .ogg, .ttf) y dependencias se mantengan intactos.
+# ====================================================================
